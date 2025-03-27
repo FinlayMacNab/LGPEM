@@ -44,7 +44,7 @@ The possibilities of LGPEM extend to the generation of hollow cavities in large 
 
 Using a bio-inspired approach, foamed metal composed of small spherical elements could be formed by various means to generate large structures of arbitrary shape and size.
 
-![Figure5](./images/Picture2.png)
+![Figure5](./images/figure5.png)
 
 
 Combinations of the above strategies could lead to complex manufactured elements.  Without the limits of atmosphere and gravity,  the possibilities of pressure expanded structures in orbit are much greater than even those of traditional glass blown products here on earth, which 2000 years refinement have informed.  
