@@ -14,6 +14,8 @@ Summary:
 
   1. Templated Expansion:
 
+![My Project Logo](./images/Figure1.jpg)
+
 Depicted in figure 1, templated expansion consists of inserting a foil balloon made of a high melting metal (e.g. Titanium) into a molten sphere of a lower melting point material (e.g. aluminum).  Controlled inflation of the foil balloon and subsequent cooling of the molten metal would result in hollow structure of shape of the balloon template.  Using this type of pressure expanded structure it might be possible to form large robust parabolic mirrors from compact material slugs.
 
 
