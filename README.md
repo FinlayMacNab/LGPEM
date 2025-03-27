@@ -47,8 +47,7 @@ Using a bio-inspired approach, foamed metal composed of small spherical elements
 ![Figure5](./images/figure5.jpg)
 
 
-     Combinations of the above strategies could lead to complex manufactured elements.  Without the limits of atmosphere and gravity,  the possibilities of pressure expanded structures in orbit are much greater than even those of traditional glass blown products here on earth, which 2000 years refinement have informed.  
+Combinations of the above strategies could lead to complex manufactured elements.  Without the limits of atmosphere and gravity,  the possibilities of pressure expanded structures in orbit are much greater than even those of traditional glass blown products here on earth, which 2000 years refinement have informed.  
 
 YUM YUM.
-
-  Thanks for reading!
+Thanks for reading!
