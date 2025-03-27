@@ -33,7 +33,8 @@ Figure 3 depicts the case of Embossed LGPEM.  In this type of expanded structure
 
 
 ![Figure3](./images/figure3.jpg)
-  4.  Expanded Structures from Partial Melts:
+
+ 4.  Expanded Structures from Partial Melts:
 
 The possibilities of LGPEM extend to the generation of hollow cavities in large bodies that are not fully melted.  An example of this structure could be the use of pressurised gas to expand hollow cavities in the surface of a very large asteroid where only a portion of the surface of the large celestial body could be melted by concentrated sunlight (figure 4).  This might also be possible on the lunar regiolith where LGPEM might generate hollow structures suitable for lunar habitats.
 
@@ -50,4 +51,5 @@ Using a bio-inspired approach, foamed metal composed of small spherical elements
 Combinations of the above strategies could lead to complex manufactured elements.  Without the limits of atmosphere and gravity,  the possibilities of pressure expanded structures in orbit are much greater than even those of traditional glass blown products here on earth, which 2000 years refinement have informed.  
 
 YUM YUM.
+
 Thanks for reading!
